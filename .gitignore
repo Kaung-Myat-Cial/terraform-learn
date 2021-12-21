@@ -7,3 +7,6 @@
 
 # tf variable files, may include sensitive data
 *.tfvars
+
+# ec2 key pair
+*.pem
