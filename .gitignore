@@ -10,3 +10,6 @@
 
 # ec2 key pair
 *.pem
+
+#user data script
+*.sh
